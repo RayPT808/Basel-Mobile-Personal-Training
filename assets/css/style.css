@@ -165,7 +165,7 @@ hr {
 }
 #welcome {
     text-align: center;
-    margin: 20px 0;
+    margin: 60px 0;
     font-size: 280%;
 
 }
@@ -185,4 +185,21 @@ hr {
     height: 100%;
     border-radius: 50%;
 
+}
+/* What you can expext section*/
+
+#expect, h2 {
+    text-align: center;
+}
+
+#expect div {
+    color: black;
+    background-color: rgba(246, 218, 170, 0.6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid black;
+    box-sizing: border-box;
 }
