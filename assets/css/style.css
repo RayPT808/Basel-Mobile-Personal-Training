@@ -116,7 +116,7 @@ transform: scale(1.1);
 
 #left-about {
     padding-top: 30px;
-    width: 35%;
+    width: 33%;
     float: left;
 
 }
@@ -158,7 +158,7 @@ hr {
 
 }
 .right-about-heading h2 {
-    text-align: right;
+    text-align: center;
 }
 .right-about-heading p {
     text-align: right;
