@@ -186,29 +186,39 @@ hr {
     border-radius: 50%;
 
 }
-/* What you can expext section*/
+/* What you can expect section*/
 
-#expect div, h2 {
-    margin-top: 150px;
-    text-align: center;
+#expect {
+    background-image: url('../images/expect-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 
+
 #expect div {
-    margin-top: 200px;
-    color: black;
-    background-color: rgba(246, 218, 170, 0.6);
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
     width: 20%;
     height: 300px;
+    float: left;
     display: flex;
     align-items: center;
     justify-content: center;
-    float: left;
     padding: 30px 0 0 10px;
-    text-align: center;
-    border: 2px solid black;
+    text-align: left;
+    border: 2px solid white;
     box-sizing: border-box;
 }
 
+#expect h2 {
+    color: #fafafa;
+}
+#title {
+    text-align: center;
+}
 /* Footer */
 
 footer {
