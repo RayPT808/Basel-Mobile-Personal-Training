@@ -225,6 +225,13 @@ margin: 1%;
 padding: 5%;
 color: #3a3a3a;
 }
+
+/* Form */
+#contact {
+    clear: left;
+    background: url('../images/contact.jpg') no repeat center center
+}
+
 /* Media queries */
 
 /* From larger to medium screen size from 1200px wide and down */
