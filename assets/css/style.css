@@ -218,11 +218,34 @@ hr {
 }
 #title {
     text-align: center;
+
+
 }
+/* Keep moving section */
+
+#keep-moving, h2 {
+    text-align: center;
+}
+
+#keep-moving {
+    padding-top: 50px;
+}
+
+/* What peopla are saying section */
+
+#people-saying, h2 {
+    margin-top: 150px;
+}
+
+#people-saying, p {
+
+    align-items: center;
+}
+
 /* Footer */
 
 footer {
-    height: 150px;
+    height: 250px;
 }
 
 .social-networks {
@@ -315,3 +338,4 @@ color: #3a3a3a;
         padding: 0 20px;
     } 
 }
+
