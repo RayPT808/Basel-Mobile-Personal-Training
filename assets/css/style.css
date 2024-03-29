@@ -264,6 +264,10 @@ hr {
     margin-bottom: 10px;
 }
 
+#textcontent {
+    font-size: 30px;
+}
+
 #title p {
     color: #666;
     font-size: 16px;
@@ -338,7 +342,7 @@ hr {
 /* Page 3 Contact Form */
 
 #signup {
-    background-image: url("../images/contact.jpg");
+    background-image: url("../images/contact.png");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -347,11 +351,12 @@ hr {
 }
 
 
+
 #signup-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
-    margin-top: 250px;
+    margin: 250px;
 }
 
 
@@ -373,12 +378,22 @@ hr {
     padding: 0 5px;
 }
 
+input[type="checkbox"] {
 
-.radio-buttons {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
+    transform: scale(2);
+    margin-right: 12px;
+    margin-bottom: 12px;
 }
+
+label {
+    vertical-align: middle;
+}
+
+.checkbox {
+    margin-top: 20px;
+}
+
+
 
 
 .join-button {
@@ -452,7 +467,42 @@ color: #3a3a3a;
     hr {
         display: none;
     }
+    /* Page 2- Training */
+    #keepmoving {
+        height: 500px; 
+        font-size: 20px;
+    }
+
+    #chanel iframe {
+        height: 300px; 
+    }
+
+    #title {
+        font-size: 16px; 
+    }
+
+    #textcontent {
+        font-size: 24px; 
+    }
+
+    #testimonials {
+        font-size: 16px; 
+    }
+
+    #peoplesaying {
+        font-size: 20px; 
+    }
+
+    #howitworks {
+        font-size: 20px;
+    }
+
+    #centeredtext p {
+        font-size: 16px;
+    }
 }
+
+
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
     #menu {
@@ -482,5 +532,39 @@ color: #3a3a3a;
         text-align: center;
         padding: 0 20px;
     } 
+    /* Page 2 - Training */
+    #keepmoving {
+        height: 400px; 
+        font-size: 18px; 
+    }
+
+    #chanel iframe {
+        height: 250px; 
+    }
+
+    #title {
+        font-size: 14px; 
+    }
+
+    #textcontent {
+        font-size: 20px;
+    }
+
+    #testimonials {
+        font-size: 14px; 
+    }
+
+    #peoplesaying {
+        font-size: 18px; 
+    }
+
+    #howitworks {
+        font-size: 18px; 
+    }
+
+    #centeredtext p {
+        font-size: 14px; 
+    }
+
 }
 
