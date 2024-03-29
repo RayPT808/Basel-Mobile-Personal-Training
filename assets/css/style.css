@@ -64,7 +64,6 @@ letter-spacing: 4px;
 
 
 }
-
 #cover-text h2 {
     margin-top: 5px;
 }
@@ -171,7 +170,7 @@ hr {
 }
 #welcome {
     text-align: center;
-    margin: 60px 0;
+    margin: 20px 0;
     font-size: 280%;
 
 }
@@ -227,25 +226,107 @@ hr {
 
 
 }
-/* Keep moving section */
+/* Page 2 - Training */
 
-#keep-moving, h2 {
-    text-align: center;
-}
+/* Styling for section with id "keepmoving" */
 
-#keep-moving {
-    padding-top: 50px;
-}
-
-/* What peopla are saying section */
-
-#people-saying, h2 {
-    margin-top: 150px;
-}
-
-#people-saying, p {
-
+#keepmoving {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 600px;
+}
+
+#chanel {
+    flex: 1;
+}
+
+#chanel iframe {
+    width: 100%;
+    height: 400px; /* Adjust height as needed */
+}
+
+#title {
+    flex: 1;
+    padding: 0 20px;
+}
+
+#title h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#title p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Styling for section with id "testimonials" */
+#testimonials {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#peoplesaying {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    
+}
+
+#left,
+#right,
+#center {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.left-heading,
+.right-heading,
+.center-heading {
+    margin-bottom: 20px;
+    color: #666;
+}
+
+/* Styling for section with id "howitworks" */
+#howitworks {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+    margin-bottom: 20px;
+
+}
+
+/* Styling for section with id "centeredtext" */
+#centeredtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#centeredtext div {
+    max-width: 800px;
+}
+
+#centeredtext p {
+    color: #666;
+    font-size: 16px;
 }
 
 /* Footer */
