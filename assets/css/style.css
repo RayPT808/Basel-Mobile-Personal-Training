@@ -228,7 +228,7 @@ hr {
 }
 /* Page 2 - Training */
 
-/* Styling for section with id "keepmoving" */
+/* Styling section "keepmoving" */
 
 #keepmoving {
     display: flex;
@@ -240,6 +240,7 @@ hr {
     margin-bottom: 50px;
     width: 100%;
     height: 600px;
+    font-size: 24px;
 }
 
 #chanel {
@@ -254,6 +255,7 @@ hr {
 #title {
     flex: 1;
     padding: 0 20px;
+    font-size: 18px;
 }
 
 #title h2 {
@@ -267,7 +269,7 @@ hr {
     font-size: 16px;
 }
 
-/* Styling for section with id "testimonials" */
+/* Styling section "testimonials" */
 #testimonials {
     display: flex;
     flex-wrap: wrap;
@@ -277,6 +279,7 @@ hr {
     background-color: #f9f9f9;
     margin-top: 20px;
     width: 100%;
+    font-size: 18px;
 }
 
 #peoplesaying {
@@ -284,6 +287,7 @@ hr {
     text-align: center;
     margin-bottom: 20px;
     color: #333;
+    font-size: 24px;
     
 }
 
@@ -301,7 +305,7 @@ hr {
     color: #666;
 }
 
-/* Styling for section with id "howitworks" */
+/* Styling section "howitworks" */
 #howitworks {
     width: 100%;
     text-align: center;
@@ -309,15 +313,17 @@ hr {
     background-color: #f4f4f4;
     color: #333;
     margin-bottom: 20px;
+    font-size: 24px;
 
 }
 
-/* Styling for section with id "centeredtext" */
+/* Styling section "centeredtext" */
 #centeredtext {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px;
+    font-size: 20px;
 }
 
 #centeredtext div {
@@ -326,7 +332,16 @@ hr {
 
 #centeredtext p {
     color: #666;
-    font-size: 16px;
+    font-size: 20px;
+}
+
+/* Page 3 Contact Form */
+
+#contact {
+    clear: left;
+    background: url('../images/contact.jpg') cover no-repeat center center
+
+
 }
 
 /* Footer */
@@ -351,11 +366,7 @@ padding: 5%;
 color: #3a3a3a;
 }
 
-/* Form */
-#contact {
-    clear: left;
-    background: url('../images/contact.jpg') no repeat center center
-}
+
 
 /* Media queries */
 

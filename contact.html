@@ -1,33 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Main content -->
-<main>
-    <section id="signup">
-        <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-            <h2><i class="fa-solid fa-heartbeat"></i> Let's get you signed up!</h2>
-            <label for="first_name">First Name</label>
-            <input type="text" name="first_name" id="first_name" class="text-input" required>
-            <br>
-            <label for="last_name">Last Name</label>
-            <input type="text" name="last_name" id="last_name" class="text-input" required>
-            <br>
-            <label for="email_address">Email Address</label>
-            <input type="email" name="email_address" id="email_address" class="text-input" required>
-            <br>
-            <div class="radio-buttons">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="'desciption" content="Mobile personal training services in Basel, Switzerland">
+    <meta name="keywords"
+        content="personal training, weight loss, strength training, endurance, toning up, painfree movement">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Title -->
+
+    <title>Mobile Personal Training Services</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+</head>
+
+<body>
+    <header>
+        <a href="index.html">
+            <h1 id="logo">Mobile Personal Training Basel</h1>
+        </a>
+        <nav>
+            <ul id="menu">
+
+                <li>
+                    <a href="contact.html">Contact Form</a>
+                </li>
+                <li>
+                    <a href="training.html">Training</a>
+                </li>
+                <li>
+                    <a href="index.html" class="active">Home</a>
+                </li>
+
+
+
+            </ul>
+        </nav>
+    </header>
+
+
+    <!-- Main content -->
+    <main>
+        <section id="signup">
+            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                <h2>Contact Form</h2>
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <br>
+                </div>
+
+                <p class="bold">What are yout training goals?</p>
+
                 <div>
-                    <label for="road">Road</label>
-                    <input type="radio" name="running_preference" id="road" value="road" required checked>
+                    <input type="checkbox" id="weightloss" name="weightloss">
+                    <label for="weightloss-checkbox">Lose Weight</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="toneup-checkbox" name="toneup">
+                    <label for="toneup-checkbox">Tone Up</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="getstronger-checkbox" name="getstronger">
+                    <label for="getstronger-checkbox">Get Stronger</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="movepainfree-checkbox" name="movepainfree">
+                    <label for="movepainfree-checkbox">Move Pain Free</label>
                 </div>
                 <div>
-                    <label for="trail">Trail</label>
-                    <input type="radio" name="running_preference" id="trail" value="trail" required>
+                    <input type="checkbox" id="event-checkbox" name="event">
+                    <label for="event-checkbox">Preparation for Event</label>
                 </div>
                 <div>
-                    <label for="both">Both</label>
-                    <input type="radio" name="running_preference" id="both" value="both" required>
+                    <input type="checkbox" id="mobility-checkbox" name="mobility">
+                    <label for="mobility-checkbox">Improve Mobility</label>
                 </div>
-            </div>
-            <button type="submit" class="join-button">Submit</button>
-        </form>
-    </section>
-</main>
+
+                <button type="submit" class="join-button">Submit</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <ul class="social-networks">
+            <li>
+                <a href="https://www.youtube.com/@rayptraining3531" target="_blank" rel="noopener"
+                    aria-label="visit my Youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+                    target="_blank" rel="noopener" aria-label="visit my Linkedin page (opens in a new tab)"><i
+                        class="fa-brands fa-linkedin"></i></a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/profile.php?id=100064050696795" target="_blank" rel="noopener"
+                    aria-label="visit my Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+        </ul>
+    </footer>
+
+    <!--font awesome script-->
+    <script src="https://kit.fontawesome.com/a11c36c394.js" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
