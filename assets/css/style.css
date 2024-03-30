@@ -635,3 +635,15 @@ color: #3a3a3a;
         margin: 0 5px;
     }
 }
+
+/* Media query for page 2 mobile screen */
+
+@media (max-width: 768px) {
+    #keepmoving {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    #textcontent {
+      order: 2;}
+    }
