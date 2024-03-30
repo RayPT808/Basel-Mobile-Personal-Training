@@ -9,4 +9,4 @@ Let's do this!
 
 The section above would be my "sales pitch" to target potential clients who want to do some training/ exercising at home or at a chosen location in/around Basel in Switzerland.
 
-
+https://8000-raypt808-basel-mobile-pe-6wky1cwnvs.us1.codeanyapp.com/index.html
