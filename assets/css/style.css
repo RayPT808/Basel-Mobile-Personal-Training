@@ -500,7 +500,12 @@ color: #3a3a3a;
     #centeredtext p {
         font-size: 16px;
     }
+
+    /* Page 3 Contact Form */
+
 }
+
+
 
 
 /* For medium screen sizes from 950px wide and down */
@@ -566,5 +571,64 @@ color: #3a3a3a;
         font-size: 14px; 
     }
 
+
 }
 
+/* For small screen sizes below 800px width */
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2; }
+    }
+
+
+    /* Styles for mobile phones */
+@media only screen and (max-width: 600px) {
+    /* Adjustments for header */
+    #logo {
+        font-size: 18px;
+    }
+    #menu {
+        display: none; /* Hide menu on small screens */
+    }
+    #menu li {
+        display: block;
+        margin-bottom: 10px;
+    }
+    #menu li a {
+        display: block;
+        text-align: center;
+    }
+    /* Adjustments for form */
+    #signup {
+        padding: 10px;
+    }
+    #signup-form {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    #signup-form h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    #signup-form label {
+        font-size: 16px;
+    }
+    #signup-form input[type="text"],
+    #signup-form input[type="email"],
+    #signup-form input[type="checkbox"] {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #signup-form button {
+        width: 100%;
+        margin-top: 20px;
+    }
+    /* Adjustments for footer */
+    footer {
+        text-align: center;
+    }
+    .social-networks li {
+        display: inline-block;
+        margin: 0 5px;
+    }
+}
