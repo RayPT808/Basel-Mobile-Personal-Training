@@ -251,7 +251,18 @@ The live link can be found here - ----->
 
 ### Content
 
+- The HTML main structure is based on CI's own boilerplate code
++ Code snipets from the CI's Love Running Project were used on page 1. and page 3.
+* Checkbox function was used from CI's course material "HTML essentials - Checkbox and Radio Inputs" chapter.
+- Social Media icons were taken from Font Awesome.
++ Testimonials from my clients were used and published with their consent.
+* For HTML and CSS validation open source validator services-  W3C,W3C CSS- were used.
+- For responsiveness test Google Developer Tools was used.
+
 ### Media
+
++ Youtube video was used from my own Youtube channel's video library.
+- Images for illustration and desig were taken from open source site Istock.
 
 ### Acknowledgement 
 
