@@ -63,10 +63,16 @@ Istock by Getty Images was used to download pictures for background and illustra
 7. Pixlr
 Pixlr platform was used to edit, re-size pictures.
 
+8. VS Code Editor
+To write and run the code VS Code editor was used which is Code Institute's cloud based IDE platform.
+
+
+
 
 
 
 ## Features
+
 
 ### Existing Features
 
@@ -89,6 +95,10 @@ The emoji of a weight lifting person supposed to indicate that the website is re
 With an underline at the actual page it indicates clearly for the visitor on which page she/he is.       
 The navigation bar, header is consitent in apperence and location on all three pages.                                      
 
+
+* Hero Image- Zoom effect
+
+The main/opening picture has a zoom effect to create motion on a static image. The image has warm colours and is trtying to express the freedom of movement in a simplest possible way.
 
 
 
@@ -164,4 +174,3 @@ For future implementation a calendar/schedule system to be added for existing cl
 
 
 
-[def]: ..//assets/images/ethos-center-image.jpg
