@@ -60,7 +60,7 @@ Github was used to store the project after being pushed
 6. Istock
 Istock by Getty Images was used to download pictures for background and illustrations.
 
-7.Pixlr
+7. Pixlr
 Pixlr platform was used to edit, re-size pictures.
 
 
