@@ -68,6 +68,10 @@ Second external link on page two takes the visitor to a public fitness studio's 
 
 + Contact Form
 
+![Screenshot-of-contactform](/assets/media/form.png)
+
+
+
 On page three is a simple contact for which requests First Name, Last Name and email address from anyone who is interested in personal training or wants to have more information.
 
 
@@ -75,18 +79,24 @@ On page three is a simple contact for which requests First Name, Last Name and e
 
 - Checkboxes
 
+![checkboxes](/assets/media/checkboxes.png)
+
 The check boxes on page three help the visitor clarifing their training goal and helps the owner to anticipate the needs of a potentisl client.
+
 
 
 
 ## Features left to implement
 
 
+For future implementation a calendar/schedule system to be added for existing clients to schedule training sessions.
+
+
 ## Testing
 
 ### Validator Testing
 
-### Unixed Bugs
+### Unfixed Bugs
 
 
 ## Deployment
