@@ -51,7 +51,6 @@ The section above would be my "sales pitch" to target potential clients who want
 ### Acknowledgement 
 
 
-![Screenshot of ethos](/assets/media/form.png)
 
 
 
