@@ -96,9 +96,11 @@ With an underline at the actual page it indicates clearly for the visitor on whi
 The navigation bar, header is consitent in apperence and location on all three pages.                                      
 
 
+
 * Hero Image- Zoom effect
 
 The main/opening picture has a zoom effect to create motion on a static image. The image has warm colours and is trtying to express the freedom of movement in a simplest possible way.
+
 
 
 
@@ -145,6 +147,13 @@ For future implementation a calendar/schedule system to be added for existing cl
 
 
 ## Testing
+
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the website to ensure there were no syntax errors in the project.
+
+- W3C Markup Validator- Results
++ W3C CSS Validator- [Results] (http://jigsaw.w3.org/css-validator/check/referer (for HTML/XML document only)
+)
 
 ### Validator Testing
 
