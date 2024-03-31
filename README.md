@@ -9,6 +9,8 @@ Let's do this!
 
 The section above would be my "sales pitch" to target potential clients who want to do some training/ exercising at home or at a chosen location in/around Basel in Switzerland.
 
+![Mockup screenshot](/assets/media/mockup%201%20.png)
+
 ## User Experience
 
 ### First time visitor goals
@@ -23,6 +25,8 @@ The section above would be my "sales pitch" to target potential clients who want
 
 
 ## Features
+
+
 
 
 ### Existing Features
