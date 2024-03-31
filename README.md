@@ -262,7 +262,7 @@ The live link can be found here - ----->
 ### Media
 
 + Youtube video was used from my own Youtube channel's video library.
-- Images for illustration and desig were taken from open source site Istock.
+- Images for illustration and design were taken from open source site Istock.
 
 
 
