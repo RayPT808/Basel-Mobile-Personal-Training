@@ -29,21 +29,24 @@ The section above would be my "sales pitch" to target potential clients who want
 ### Existing Features
 
 - Navigation, Header
+
 ![Mockup screenshot](/assets/media/navbar.png)
  The navigation bar and header has a clear, minimalistic style. The logo "Basel Mobile Personal Training Services" clearly indicates What it is?, Where it is?
  The navigation bar includes three sections: 1. Home,
                                              2. Training,
                                              3. Contact form.
-With an underline at the actual page it indicates clearly for the visitor on which page she/he is.                                             
+With an underline at the actual page it indicates clearly for the visitor on which page she/he is.       
+The navigation bar, header is consitent in apperence and location on all three pages.                                      
 
 
 
+- Social Media Links
 
-
+![Social Media icons]
 
 
 * Contact Form
-- Social Media Links
+
 + Favicon
 * External Links
 - Checkboxes
