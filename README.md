@@ -257,14 +257,20 @@ The live link can be found here - ----->
 - Social Media icons were taken from Font Awesome.
 + Testimonials from my clients were used and published with their consent.
 * For HTML and CSS validation open source validator services-  W3C,W3C CSS- were used.
-- For responsiveness test Google Developer Tools was used.
+- For responsiveness test and adjusting smaller design flaws Google Developer Tools was used.
 
 ### Media
 
 + Youtube video was used from my own Youtube channel's video library.
 - Images for illustration and desig were taken from open source site Istock.
 
+
+
 ### Acknowledgement 
+
+
+
+
 
 
 
