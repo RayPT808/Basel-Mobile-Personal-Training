@@ -51,7 +51,7 @@ The section above would be my "sales pitch" to target potential clients who want
 ### Acknowledgement 
 
 
-![Screenshot of ethos](/workspaces/Basel-Mobile-Personal-Training/assets/images/ethos-center-image.jpg)
+![Screenshot of ethos](/assets/media/form.png)
 
 
 
@@ -60,3 +60,6 @@ The section above would be my "sales pitch" to target potential clients who want
 
 
 
+
+
+[def]: ..//assets/images/ethos-center-image.jpg
