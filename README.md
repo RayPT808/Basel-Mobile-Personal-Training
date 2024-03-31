@@ -153,17 +153,48 @@ For future implementation a calendar/schedule system to be added for existing cl
 
 ### Features Testing
 
+#### Logo
 
-|                   |
-|-------------------|-----------
-|
-|-------------------|----------
-|
-|--------------------------------
-|
-|-------------------------------
-|
-|
+Click on the logo ----> User is brought to the Home page 
+
+#### Navbar | Home Page
+
+
+Click on the Home link on each page ----> User is brought to the Home Page
+
+
+#### Navbar | Training-  Second Page
+
+
+Click on the Training link on each page ------> User is brought to the Training page.
+
+
+#### Contact Form
+
+Submit an empty form ----> Error signalling required fields
+
+
+#### Social media Icons
+
+
+Click on Social media icons -----> The relevant social media site opens in a new tab.
+
+
+#### External Links
+
+Click on Linked text -----> External website opens in a new tab.
+
+
+#### Checkboxes
+
+
+Tick the check box(es) ------> Validates the selection
+
+
+#### Submit button
+
+
+Click on submit button -----> Form will be sent if it's filled correctly
 
 
 
