@@ -26,6 +26,14 @@ The section above would be my "sales pitch" to target potential clients who want
 
 ## Features
 
+-Navigation
++Header
+*Contact Form
+-Social Media Links
++Favicon
+*External Links
+-Checkboxes
+
 
 
 
