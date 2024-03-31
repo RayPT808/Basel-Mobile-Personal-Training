@@ -117,7 +117,7 @@ With the well known icons for Youtube, LinkdIn, Facebook the visitor can collect
 
 External link on page one is taking the visitor to another service provider's website who the owner worked in the past.
 First external link on page two takes the visitor the the owners Youtube channel. Here the visitor can get a better idea about the type of training that the service covers.
-Second external link on page two takes the visitor to a public fitness studio's website where the owner also delivers the training services. It's an alternstive location.
+Second external link on page two takes the visitor to a public fitness studio's website where the owner also delivers the training services. It's an alternative location.
 
 
 + Contact Form
@@ -215,6 +215,15 @@ I confirmed that the colors of the fonts have a good contrast with their backgro
 On transparent sections the same applies with the contrast.
 
 ![lighthousereport](/assets/media/lighthousescreenshot.png)
+
+
+### Browser compatibility
+
+
+Tested all the pages of the website on **Chrome**, **Safari**, **Firefox**.
+Appearance was good on all three browsers.
+Intended responsiveness also good on all three.
+ 
 
 
 ### Unfixed Bugs
