@@ -266,7 +266,17 @@ The live link can be found here - ----->
 
 
 
+
 ### Acknowledgement 
+
+
+
+Grateful for the help and the input from my mentor **Can Sücüllü**.
+He always gave a different perspective on the issues and with his experience
+and eyes for details I was guided in the right direction to make this project happen.
+
+
+
 
 
 
