@@ -40,7 +40,7 @@ The section above would be my "sales pitch" to target potential clients who want
 + HTML5
 - CSS3
 
-### Frameworks, Liraries & Programs Used
+### Frameworks, Libraries & Programs Used
 
 1. Google Fonts: 
 + Google fonts were used across all the pages which was linked to the CSS file.
