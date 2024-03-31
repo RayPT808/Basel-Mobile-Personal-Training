@@ -28,6 +28,13 @@ The section above would be my "sales pitch" to target potential clients who want
 
 ### Existing Features
 
++ Favicon
+
+![favicon](/assets/favicon/favicon-16x16.png)
+
+Upon opening the page in the browser next to the name of the website the "favicon" appears.
+The emoji of a weight lifting person supposed to indicate that the website is related to the topic of exercise, training, fitness, health.
+
 - Navigation, Header
 
 ![Mockup screenshot](/assets/media/navbar.png)
@@ -42,19 +49,28 @@ The navigation bar, header is consitent in apperence and location on all three p
 
 - Social Media Links
 
-![Social Media icons]
+![social media icons](/assets/media/socialmedialinks.png)
+
+The social media links can be found on all three pages at the bottom- footer.
+With the well known icons for Youtube, LinkdIn, Facebook the visitor can collect more information about the business.
 
 
-* Contact Form
-
-+ Favicon
 * External Links
+
+External link on page one is taking the visitor to another service provider's website who the owner worked in the past.
+First external link on page two takes the visitor the the owners Youtube channel. Here the visitor can get a better idea about the type of training that the service covers.
+Second external link on page two takes the visitor to a public fitness studio's website where the owner also delivers the training services. It's an alternstive location.
+
++ Contact Form
+
+On page three is a simple contact for which requests First Name, Last Name and email address from anyone who is interested in personal training or wants to have more information.
+
+
+
 - Checkboxes
 
+The check boxes on page three help the visitor clarifing their training goal and helps the owner to anticipate the needs of a potentisl client.
 
-
-
-### Existing Features
 
 
 ## Features left to implement
