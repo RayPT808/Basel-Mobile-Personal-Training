@@ -152,7 +152,7 @@ For future implementation a calendar/schedule system to be added for existing cl
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the website to ensure there were no syntax errors in the project.
 
 - W3C Markup Validator- Results
-+ W3C CSS Validator- [Results] (http://jigsaw.w3.org/css-validator/check/referer (for HTML/XML document only)
++ W3C CSS Validator- [Results](http://jigsaw.w3.org/css-validator/check/referer (for HTML/XML document only)
 )
 
 ### Validator Testing
