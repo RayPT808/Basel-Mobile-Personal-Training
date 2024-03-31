@@ -223,7 +223,8 @@ On transparent sections the same applies with the contrast.
 Tested all the pages of the website on **Chrome**, **Safari**, **Firefox**.
 Appearance was good on all three browsers.
 Intended responsiveness also good on all three.
- 
+
+![responsiveness](/assets/media/Am-I-Responsive-.png)
 
 
 ### Unfixed Bugs
