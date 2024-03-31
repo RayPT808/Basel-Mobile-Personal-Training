@@ -14,8 +14,24 @@ The section above would be my "sales pitch" to target potential clients who want
 ## User Experience
 
 ### First time visitor goals
+
++ As a first time visitor the goal and the purpose of the website is easily understandable.
+- As a first time visitor I can easily navigate through the pages and locate content.
+* As a first time visitor I can find feedbacks/ testimonials from past/current clients and perhaps I can relate to some of these individulas.
+
+
 ### Returning visitor goals
+
++ After some contemplation as a returning visitor to the website I can find out specifically on which locations can I reuest the service.
+- As a returning visitor I can submit my "interest" towards the service provider, I can get in to contact.
+* As a returning visitor I'll have a better understanding of the type of training/services.
++ As a returning visitor I can try some training routines based on provided/ linked videos.
+- As a returning visitor I can look up the company/ owner based on the social media links which gives a better understanding of the organisation/owner.
+
 ### Frequent user goals
+
+- As a frequently returning user I want to see if there are updated training routines added to the Youtube channel.
++ As a frequently returning user I want to see if the location of services perhaps expanded.
 
 ## Technologies Used
 
@@ -81,7 +97,7 @@ On page three is a simple contact for which requests First Name, Last Name and e
 
 ![checkboxes](/assets/media/checkboxes.png)
 
-The check boxes on page three help the visitor clarifing their training goal and helps the owner to anticipate the needs of a potentisl client.
+The check boxes on page three help the visitor clarifying their training goal and helps the owner to anticipate the needs of a potential client.
 
 
 
@@ -89,7 +105,7 @@ The check boxes on page three help the visitor clarifing their training goal and
 ## Features left to implement
 
 
-For future implementation a calendar/schedule system to be added for existing clients to schedule training sessions.
+For future implementation a calendar/schedule system to be added for existing clients to schedule appointments/ training sessions.
 
 
 ## Testing
