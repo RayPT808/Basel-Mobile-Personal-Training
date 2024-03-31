@@ -35,8 +35,34 @@ The section above would be my "sales pitch" to target potential clients who want
 
 ## Technologies Used
 
-### Languages used
-### Frame works, Libraries & Programs Used
+### Languages Used
+
++ HTML5
+- CSS3
+
+### Frameworks, Liraries & Programs Used
+
+1. Google Fonts: 
+Google fonts were used across all the pages which was linked to the CSS file.
+
+2. Font Awesome
+Font Awesome was used to add icons to the appropriate sections.
+
+3. Favicon
+Favicon emoji was used from favicon.io
+
+4. Git
+Git was used to commit and push the codes.
+
+5. GitHub
+Github was used to store the project after being pushed
+
+6. Istock
+Istock by Getty Images was used to download pictures for background and illustrations.
+
+7.Pixlr
+Pixlr platform was used to edit, re-size pictures.
+
 
 
 
