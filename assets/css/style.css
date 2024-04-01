@@ -342,6 +342,12 @@ hr {
     font-size: 20px;
 }
 
+#locations {
+        margin: 20px;
+        margin-left: 120px;
+    }
+
+
 /* Page 3 Contact Form */
 
 #signup {
