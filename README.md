@@ -203,10 +203,11 @@ Click on submit button -----> Form will be sent if it's filled correctly
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the website to ensure there were no syntax errors in the project.
 
-- W3C Markup Validator- Results
+- W3C Markup Validator- ![htmlvalidation-page-1](/assets/media/htmlvalidation-page-1.png)
 
-+ W3C CSS Validator- [Results](http://jigsaw.w3.org/css-validator/check/referer (for HTML/XML document only)
-)
+    ![htmlvalidation-page-3](/assets/media/htmlvalidation-page-3.png)
+
++ W3C CSS Validator- ![cssvalidation](/assets/media/cssvalidation.png)
 
 
 * Accesibility
@@ -224,7 +225,7 @@ Tested all the pages of the website on **Chrome**, **Safari**, **Firefox**.
 Appearance was good on all three browsers.
 Intended responsiveness also good on all three.
 
-![responsiveness](/assets/media/Am-I-Responsive-.png)
+![responsiveness](/assets/media/am-i-responsive-.png)
 
 
 ### Unfixed Bugs
