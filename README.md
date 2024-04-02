@@ -173,7 +173,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - W3C Markup Validator- page 1,2,3. ![htmlvalidation-page-1](/assets/media/htmlvalidation-page-1.png)
 
-    ![htmlvalidation-page-3](/assets/media/htmlvalidation-page-3.png)
+
+
+![htmlvalidation-page-2](/assets/media/htmlvalidation-page-2.png)
+
+
+
+
+
+![htmlvalidation-page-3](/assets/media/htmlvalidation-page-3.png)
 
 + W3C CSS Validator ![cssvalidation](/assets/media/cssvalidation.png)
 
