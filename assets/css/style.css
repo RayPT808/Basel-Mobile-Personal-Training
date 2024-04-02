@@ -488,7 +488,9 @@ color: #3a3a3a;
     hr {
         display: none;
     }
+
     /* Page 2- Training */
+
     #keepmoving {
         height: 500px; 
         font-size: 20px;
@@ -558,7 +560,9 @@ color: #3a3a3a;
         text-align: center;
         padding: 0 20px;
     } 
+
     /* Page 2 - Training */
+
     #keepmoving {
         height: 400px; 
         font-size: 18px; 
@@ -611,7 +615,7 @@ color: #3a3a3a;
         font-size: 18px;
     }
     #menu {
-        display: none;
+        display: block;
     }
     #menu li {
         display: block;
