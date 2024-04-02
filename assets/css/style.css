@@ -600,6 +600,7 @@ color: #3a3a3a;
 }
 
 /* For small screen sizes below 800px width */
+
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2; }
@@ -615,16 +616,19 @@ color: #3a3a3a;
         font-size: 18px;
     }
     #menu {
-        display: block;
+        display: flex; 
+        align-items: flex-start;
+        flex-direction: row-reverse;
     }
     #menu li {
         display: block;
-        margin-top: -20px;
+        margin-top: -100px;
     }
     #menu li a {
-        display: block;
+        display:block;
         text-align: center;
-    }
+        }
+
     #signup {
         padding: 10px;
     }
