@@ -183,7 +183,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ![htmlvalidation-page-3](/assets/media/htmlvalidation-page-3.png)
 
-+ W3C CSS Validator ![cssvalidation](/assets/media/cssvalidation.png)
+* W3C CSS Validator ![cssvalidation](/assets/media/cssvalidation.png)
 
 
 * Accesibility
