@@ -327,7 +327,7 @@ hr {
 /* Styling section "centeredtext" */
 #centeredtext {
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
     padding: 20px;
     font-size: 20px;
