@@ -350,12 +350,22 @@ hr {
 
 /* Page 3 Contact Form */
 
+.contact {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999; 
+}
+
+
 #signup {
     background-image: url("../images/contact.png");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
+    margin-top: 80px;
 
 }
 
@@ -417,11 +427,13 @@ label {
 
 /* Footer */
 
-footer {
-    height: 250px;
+.icons {
+    margin-top: -250px;
+    height: 150px;
 }
 
 .social-networks {
+    margin-top: 100px;
     text-align: center;
 
 }
