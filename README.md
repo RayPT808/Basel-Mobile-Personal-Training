@@ -146,8 +146,6 @@ The check boxes on page three help the visitor clarifying their training goal an
 For future implementation a calendar/schedule system to be added for existing clients to schedule appointments/ training sessions.
 
 
-## Testing
-
 
 ## Testing
 
@@ -232,7 +230,7 @@ The live link can be found here - ----->
 
 ### Code
 
-- The HTML main structure is based on CI's own boilerplate code
+- The HTML main structure is based on CI's own boilerplate code.
 + Code snipets from the CI's Love Running Project were used on page 1. and page 3.
 * Checkbox function was used from CI's course material "HTML essentials - Checkbox and Radio Inputs" chapter.
 
