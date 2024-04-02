@@ -191,7 +191,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 I confirmed that the colors of the fonts have a good contrast with their background makes it easy to read.
 On transparent sections the same applies with the contrast.
 
-![lighthousereport](/assets/media/lighthousescreenshot.png)
+![lighthousereport](/assets/media/lighthouse-page-1-desktop.png)
 
 
 ### Browser compatibility
