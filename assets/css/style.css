@@ -8,44 +8,53 @@
 
 body {
     font-family: Lato, sans-serif;
-    font-weight: 300; 
+    font-weight: 300;
     color: #3a3a3a;
 }
 
 /* heading and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
 }
+
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
 }
+
 /* Navigation Links */
 #menu {
-font-size: 110%;
-letter-spacing: 4px;
+    font-size: 110%;
+    letter-spacing: 4px;
 }
-#menu, #logo {
+
+#menu,
+#logo {
     line-height: 75px;
 }
+
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
+
 #menu a {
     text-decoration: none;
     color: inherit;
 
 }
+
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
+
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -57,13 +66,16 @@ letter-spacing: 4px;
     width: 100%;
     overflow: hidden;
 
-    position:relative
+    position: relative
 }
-#cover-text, #cover-text h2 {
+
+#cover-text,
+#cover-text h2 {
     color: #fff;
 
 
 }
+
 #cover-text h2 {
     margin-top: 5px;
 }
@@ -82,11 +94,12 @@ letter-spacing: 4px;
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
-    from{
-transform: scale(1);
+    from {
+        transform: scale(1);
     }
-    to{
-transform: scale(1.1);
+
+    to {
+        transform: scale(1.1);
     }
 }
 
@@ -111,6 +124,7 @@ transform: scale(1.1);
 
 
 }
+
 /* Trainer Ethos */
 
 
@@ -130,13 +144,15 @@ transform: scale(1.1);
     padding-top: 30px;
     width: 33%;
     float: right;
-    
+
 }
+
 #center-about {
     width: 33%;
     margin: 0 auto;
-    
+
 }
+
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
@@ -162,18 +178,22 @@ hr {
     margin-bottom: 50px;
 
 }
+
 .right-about-heading h2 {
     text-align: left;
 }
+
 .right-about-heading p {
     text-align: right;
 }
+
 #welcome {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
 
 }
+
 #circle-container {
     width: 300px;
     height: 300px;
@@ -185,12 +205,14 @@ hr {
     margin: 0 auto;
 
 }
+
 #circle-cover-bg {
     background: url('../images/ethos-center-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 
 }
+
 /* What you can expect section*/
 
 #expect {
@@ -220,12 +242,14 @@ hr {
 
 #expect h2 {
     color: #fafafa;
-    
+
 }
+
 #title {
     text-align: center;
 
 }
+
 /* Page 2 - Training */
 
 
@@ -250,7 +274,7 @@ hr {
 
 #chanel iframe {
     width: 100%;
-    height: 400px; 
+    height: 400px;
 }
 
 #title {
@@ -294,7 +318,7 @@ hr {
     margin-bottom: 20px;
     color: #333;
     font-size: 24px;
-    
+
 }
 
 #left,
@@ -327,7 +351,7 @@ hr {
 /* Styling section "centeredtext" */
 #centeredtext {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
     padding: 20px;
     font-size: 20px;
@@ -343,9 +367,9 @@ hr {
 }
 
 #locations {
-        margin: 20px;
-        margin-left: 120px;
-    }
+    margin: 20px;
+    margin-left: 120px;
+}
 
 
 /* Page 3 Contact Form */
@@ -355,7 +379,7 @@ hr {
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 9999; 
+    z-index: 9999;
 }
 
 
@@ -438,15 +462,15 @@ label {
 
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
 .social-networks i {
-font-size: 180%;
-margin: 1%;
-padding: 5%;
-color: #3a3a3a;
+    font-size: 180%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 
@@ -461,23 +485,28 @@ color: #3a3a3a;
         height: 1200px;
         margin: 0 auto;
     }
+
     #welcome {
         padding: 30px 0;
         margin: 0;
 
     }
-    #left-about, #right-about {
+
+    #left-about,
+    #right-about {
         width: 100%;
         float: left;
         padding: 0;
     }
+
     #center-about {
         clear: both;
         width: 100%;
         float: left;
         padding: 0;
     }
-    #expect > div {
+
+    #expect>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -492,28 +521,28 @@ color: #3a3a3a;
     /* Page 2- Training */
 
     #keepmoving {
-        height: 500px; 
+        height: 500px;
         font-size: 20px;
     }
 
     #chanel iframe {
-        height: 300px; 
+        height: 300px;
     }
 
     #title {
-        font-size: 16px; 
+        font-size: 16px;
     }
 
     #textcontent {
-        font-size: 24px; 
+        font-size: 24px;
     }
 
     #testimonials {
-        font-size: 16px; 
+        font-size: 16px;
     }
 
     #peoplesaying {
-        font-size: 20px; 
+        font-size: 20px;
     }
 
     #howitworks {
@@ -535,45 +564,53 @@ color: #3a3a3a;
 @media screen and (max-width: 950px) {
     #menu {
         clear: left;
-        float: left ;
+        float: left;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
     }
+
     #cover-text {
         left: 0;
 
     }
-    #trainer-ethos{
+
+    #trainer-ethos {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
     }
-    .left-about-heading, .right-about-heading {
+
+    .left-about-heading,
+    .right-about-heading {
         width: inherit;
     }
-    .left-about-heading h2, .right-about-heading h2 {
+
+    .left-about-heading h2,
+    .right-about-heading h2 {
         width: 100%;
         text-align: center;
     }
-    .left-about-heading p, .right-about-heading p {
+
+    .left-about-heading p,
+    .right-about-heading p {
         text-align: center;
         padding: 0 20px;
-    } 
+    }
 
     /* Page 2 - Training */
 
     #keepmoving {
-        height: 400px; 
-        font-size: 18px; 
+        height: 400px;
+        font-size: 18px;
     }
 
     #chanel iframe {
-        height: 250px; 
+        height: 250px;
     }
 
     #title {
-        font-size: 14px; 
+        font-size: 14px;
     }
 
     #textcontent {
@@ -581,19 +618,19 @@ color: #3a3a3a;
     }
 
     #testimonials {
-        font-size: 14px; 
+        font-size: 14px;
     }
 
     #peoplesaying {
-        font-size: 18px; 
+        font-size: 18px;
     }
 
     #howitworks {
-        font-size: 18px; 
+        font-size: 18px;
     }
 
     #centeredtext p {
-        font-size: 14px; 
+        font-size: 14px;
     }
 
 
@@ -603,60 +640,72 @@ color: #3a3a3a;
 
 @media screen and (max-width: 800px) {
     #photos {
-        column-count: 2; }
+        column-count: 2;
     }
+}
 
 
-    /* Page 3 Contact Form Mobile screen */
+/* Page 3 Contact Form Mobile screen */
 
 
 @media only screen and (max-width: 600px) {
-    
+
     #logo {
-        font-size: 18px;
+        font-size: 20px; 
     }
+
     #menu {
-        display: flex; 
+        display: flex;
         align-items: flex-start;
         flex-direction: row-reverse;
-        margin-top: 80px
+        margin-top: 40px;
     }
+
     #menu li {
         display: block;
-        margin-top: -100px;
+        
     }
+
     #menu li a {
-        display:block;
+        display: block;
         text-align: center;
-        }
+    }
 
     #signup {
         padding: 10px;
     }
+
     #signup-form {
         max-width: 300px;
         margin: 0 auto;
     }
+
     #signup-form h2 {
         font-size: 24px;
         margin-bottom: 20px;
     }
+
     #signup-form label {
         font-size: 16px;
     }
+
     #signup-form input[type="text"],
     #signup-form input[type="email"],
     #signup-form input[type="checkbox"] {
-        width: 100%;
-        margin-bottom: 10px;
+        width: calc(100% - 20px); 
+        margin-bottom: 15px; 
+        padding: 10px; 
     }
+
     #signup-form button {
         width: 100%;
         margin-top: 20px;
     }
+
     footer {
         text-align: center;
     }
+
     .social-networks li {
         display: inline-block;
         margin: 0 5px;
@@ -665,12 +714,25 @@ color: #3a3a3a;
 
 /* Media query for page 2 mobile screen */
 
-@media (max-width: 768px) {
-    #keepmoving {
-      display: flex;
-      flex-direction: column;
+
+@media (min-width: 768px) {
+
+    #keepmoving,
+    #howitworks,
+    #testimonials {
+    flex-direction: row;
+    align-items: stretch; /* Align items for equal height columns */
     }
-  
-    #textcontent {
-      order: 2;}
+    
+    #chanel iframe {
+    height: 400px; /* Fixed height for larger screens */
     }
+    
+    #title,
+    #left,
+    #right,
+    #center {
+    flex: 1;
+    padding: 0 20px;
+    }
+}
