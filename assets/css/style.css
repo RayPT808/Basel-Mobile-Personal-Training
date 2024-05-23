@@ -375,105 +375,132 @@ hr {
 /* Page 3 Contact Form */
 
 .contact {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 9999;
-}
-
-
-#signup {
+    }
+    
+    #signup {
     background-image: url("../images/contact.png");
     background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
+    background-position: center; /* Changed to center for better responsiveness */
+    padding: 20px 5%; /* Reduced side padding for smaller screens */
     flex-grow: 1;
     margin-top: 80px;
-
-}
-
-
-
-#signup-form {
+    }
+    
+    #signup-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
-    margin: 250px;
-}
-
-
-#signup-form>h2 {
+    margin: 5%; /* Changed to percentage for better responsiveness */
+    max-width: 500px; /* Max width to prevent form from stretching too wide on large screens */
+    box-sizing: border-box; /* To include padding in the width calculation */
+    }
+    
+    #signup-form > h2 {
     color: #fafafa;
     margin-bottom: 25px;
-    font-size: 15px;
-}
-
-
-.text-input {
+    font-size: 1.5rem; /* Responsive font size */
+    }
+    
+    .text-input {
     background: transparent;
     color: #fafafa;
-    width: 100%;
-    height: 25px;
+    width: calc(100% - 10px); /* Adjust width to account for padding */
+    height: 40px; /* Increased height for better touch targets on mobile */
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px;
     padding: 0 5px;
-}
-
-input[type="checkbox"] {
-
-    transform: scale(2);
+    }
+    
+    input[type="checkbox"] {
+    transform: scale(1.5); /* Slightly reduced scale for better layout */
     margin-right: 12px;
     margin-bottom: 12px;
-}
-
-label {
+    }
+    
+    label {
     vertical-align: middle;
-}
-
-.checkbox {
+    }
+    
+    .checkbox {
     margin-top: 20px;
-}
-
-
-
-
-.join-button {
+    }
+    
+    .join-button {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px;
-    font-size: 100%;
+    font-size: 1rem; /* Responsive font size */
     background-color: #454b1b;
     color: #fafafa;
-}
-
-
-/* Footer */
-
-.icons {
-    margin-top: -250px;
+    }
+    
+    /* Footer */
+    
+    .icons {
+    margin-top: 50px; /* Reduced negative margin to prevent overlap */
     height: 150px;
-}
-
-.social-networks {
-    margin-top: 100px;
+    }
+    
+    .social-networks {
+    margin-top: 50px; /* Adjusted margin to prevent overlap */
     text-align: center;
-
-}
-
-.social-networks>li {
+    }
+    
+    .social-networks > li {
     display: inline;
-}
-
-.social-networks i {
-    font-size: 180%;
+    }
+    
+    .social-networks i {
+    font-size: 2rem; /* Responsive font size */
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
-}
+    }
+    
+    /* Media Queries for additional responsiveness */
+    @media (max-width: 768px) {
+    #signup {
+    padding: 20px 2%; /* Smaller padding on smaller screens */
+    }
+    
+    #signup-form {
+    margin: 5% 2%; /* Smaller margin on smaller screens */
+    }
+    }
 
-
+    /* Media Queries for additional responsiveness */
+@media (max-width: 737px) {
+    .contact,
+    #signup {
+    position: static; /* Reset position to allow natural document flow */
+    width: auto; /* Reset width to default */
+    margin-top: 0; /* Remove additional margin */
+    }
+    
+    #signup-form {
+    margin: 5% auto; /* Center the form with automatic horizontal margins */
+    padding: 30px 5%; /* Adjust padding for smaller screens */
+    }
+    
+    /* Adjust navbar layout */
+    #menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0;
+    }
+    
+    #menu li {
+    display: inline-block; /* Display list items inline */
+    }
+    }
+    
 
 /* Media queries */
 
