@@ -739,27 +739,12 @@ hr {
     }
 }
 
-/* Media query for page 2 mobile screen */
 
+/* Media query for page 2. mobile devices */
 
-@media (min-width: 768px) {
-
-    #keepmoving,
-    #howitworks,
-    #testimonials {
-    flex-direction: row;
-    align-items: stretch; /* Align items for equal height columns */
+@media (max-width: 768px) {
+    #keepmoving {
+    flex-direction: column; 
+    height: auto; 
+    padding-bottom: 40px; 
     }
-    
-    #chanel iframe {
-    height: 400px; /* Fixed height for larger screens */
-    }
-    
-    #title,
-    #left,
-    #right,
-    #center {
-    flex: 1;
-    padding: 0 20px;
-    }
-}
